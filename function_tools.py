@@ -55,6 +55,3 @@ def draw_tarot_cards(card_ids: str):
   
 def reading():
   pass
-  
-
-    
